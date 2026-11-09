@@ -1,0 +1,46 @@
+# Compiled class files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+*.nar
+
+# Build output
+/target/
+/build/
+/out/
+/.gradle/
+
+# Maven wrapper release artifacts
+/.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IDEs and editors
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.metadata/
+.vscode/
+/.fleet/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.swp
+*.swo
+*~
+.#*
+
+# Environment-specific configuration
+.env
+.env.*
+!.env.example
